@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The Fate of Ophelia",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-03-09T18:10:19.504800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_The_Fate_of_Ophelia_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Fate of Ophelia",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/02_The_Fate_of_Ophelia_Song.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Fate of Ophelia",
+      "artist": "Song, Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_The_Fate_of_Ophelia_Song,_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Taylor Swift - The Fate of Ophelia",
+      "artist": "LatinHype",
+      "has_synced": true,
+      "path": "select/04_Taylor_Swift_-_The_Fate_of_Ophelia_LatinHype.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Taylor Swift - The Fate of Ophelia",
+      "artist": "Video",
+      "has_synced": true,
+      "path": "select/05_Taylor_Swift_-_The_Fate_of_Ophelia_Video.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Fate of Ophelia",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_01_The_Fate_of_Ophelia_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Fate of Ophelia",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_02_The_Fate_of_Ophelia_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The Fate of Ophelia",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_03_The_Fate_of_Ophelia_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The Fate of Ophelia",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_04_The_Fate_of_Ophelia_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Fate of Ophelia",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_05_The_Fate_of_Ophelia_テイラー・スウィフト.txt"
+    }
+  ]
+}
